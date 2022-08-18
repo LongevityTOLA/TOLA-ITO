@@ -1,0 +1,35 @@
+.page-ido[data-v-713a9510] {
+    padding: 0 30px 10px
+}
+
+.page-ido .list[data-v-713a9510] {
+    margin: 10px 0 20px;
+    padding: 40px 0;
+    background: url(./list.c654ff40.png) no-repeat center center;
+    background-size: 100% 100%;
+    text-align: center
+}
+
+.page-ido .list .title[data-v-713a9510] {
+    color: #181818;
+    font-size: 20px;
+    font-weight: 700
+}
+
+.page-ido .list .body[data-v-713a9510] {
+    margin-top: 15px;
+    color: #00000080;
+    font-size: 14px
+}
+
+.page-ido .list .btn[data-v-713a9510] {
+    width: 40%;
+    margin: 20px auto 0;
+    background: #181818;
+    color: #dba764;
+    font-size: 14px;
+    text-align: center;
+    line-height: 35px;
+    border-radius: 50px;
+    font-weight: 700
+}
